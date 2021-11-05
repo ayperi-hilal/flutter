@@ -1,0 +1,2 @@
+1-) bu kýsýmda yeni baþlandý flutter ile çalýþmaya online bir ortamda çalýþýldýðýndan ekran görüntüleri alýnarak depolanacaktýr.
+2-)
